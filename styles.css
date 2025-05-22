@@ -40,3 +40,8 @@ li {
   font-size: 20px;
   color: rgb(228, 78, 19);
 }
+
+.subtitle {
+  color: rgb(15, 72, 39);
+  font-size: 32px;
+}
